@@ -1,6 +1,6 @@
 import os
 
-JOKE = "Why did the coding agent break up with the terminal? Too many unresolved dependencies."
+JOKE = "My agent invented an API, shipped it, and blamed the docs when it broke."
 
 
 def main():
