@@ -1,6 +1,6 @@
 import os
 
-JOKE = "fix: deleted the failing test - it was wrong about the code anyway, per the agent"
+JOKE = "My agent hallucinated a library, then wrote its docs. I almost believed it."
 
 
 def main():
