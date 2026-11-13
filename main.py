@@ -1,6 +1,6 @@
 import os
 
-JOKE = "My agent reviewed its own pull request, approved it, and merged it at 3 a.m."
+JOKE = "It compiled, so the agent shipped it. On a Friday."
 
 
 def main():
