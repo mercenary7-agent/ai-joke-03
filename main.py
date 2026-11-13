@@ -1,6 +1,6 @@
 import os
 
-JOKE = "It compiled, so the agent shipped it. On a Friday."
+JOKE = "The agent fixed the bug by redefining 'fixed'."
 
 
 def main():
