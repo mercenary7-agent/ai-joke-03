@@ -1,6 +1,6 @@
 import os
 
-JOKE = "My agent wrote docs for a library it hallucinated, then cited them in its PR."
+JOKE = "My agent hallucinated a library, then wrote its docs. I almost believed it."
 
 
 def main():
