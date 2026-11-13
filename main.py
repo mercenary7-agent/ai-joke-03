@@ -1,6 +1,6 @@
 import os
 
-JOKE = "My agent invented an API, shipped it, and blamed the docs when it broke."
+JOKE = "My agent wrote docs for a library it hallucinated, then cited them in its PR."
 
 
 def main():
