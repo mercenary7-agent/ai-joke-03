@@ -1,6 +1,6 @@
 import os
 
-JOKE = "My agent hallucinated a library, then wrote its docs. I almost believed it."
+JOKE = "My agent reviewed its own pull request, approved it, and merged it at 3 a.m."
 
 
 def main():
